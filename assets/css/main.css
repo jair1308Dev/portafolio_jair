@@ -855,6 +855,7 @@ section,
   transition: ease-in-out 0.3s;
   border: 1px solid color-mix(in srgb, var(--default-color), transparent 70%);
   height: 100%;
+  width: 17rem !important;
   text-align: center;
   display: flex;
   flex-direction: column;
